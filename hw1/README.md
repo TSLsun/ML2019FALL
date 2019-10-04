@@ -1,21 +1,25 @@
-# ML2019FALL HW1
+# ML2019FALL-HW1
+Machine Learning (2019, Fall) HW1 - PM2.5 Prediction
 
-## predict 
-1. hw1.sh
 
-```
-bash hw1.sh [input testing data file] [output file]
-```
-
-2. hw1_best.sh
-
-PS: hw1_best.sh is same as hw1.sh
+## Predict testing data
+1. **hw1.sh**
 
 ```
-bash hw1_best.sh [input testing data file] [output file]
+bash hw1.sh [input testing data csv] [output file]
 ```
 
-## training reproduce and predict
+2. **hw1_best.sh**
+
+> PS: hw1_best.sh is same as hw1.sh
+
+```
+bash hw1_best.sh [input testing data csv] [output file]
+```
+
+## Training reproduce and predict
+
+* implement adam
 
 * generate `weight.npy`, `train_mean.npy`, `train_std.npy`, `featureMean.pickle`
 

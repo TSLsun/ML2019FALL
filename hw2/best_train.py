@@ -13,7 +13,8 @@ from sklearn.feature_selection import SelectFromModel
 import sklearn.metrics as metrics
 from sklearn.metrics import roc_auc_score
 from sklearn.model_selection import GridSearchCV, RandomizedSearchCV
-from sklearn.externals import joblib
+# from sklearn.externals import joblib
+import joblib
 
 #%%
 raw_data = sys.argv[1]

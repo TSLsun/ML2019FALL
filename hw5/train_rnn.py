@@ -63,7 +63,8 @@ for n in range(len(texts)):
             vec = w2v_model.wv[texts[n][i]]
             data_emb[n][i] = (vec - vec.mean(0)) / (vec.std(0) + 1e-10)
         except KeyError as e:
-            print(texts[n][i], 'is not in dict.')
+            # print(texts[n][i], 'is not in dict.')
+            continue
 
 # %%
 print(data_emb.shape)
@@ -174,7 +175,8 @@ for n in range(len(test_texts)):
             vec = w2v_model.wv[test_texts[n][i]]
             test_data_emb[n][i] = (vec - vec.mean(0)) / (vec.std(0) + 1e-10)
         except KeyError as e:
-            print(test_texts[n][i], 'is not in dict.')
+            # print(test_texts[n][i], 'is not in dict.')
+            continue
 
 y_test_pred = model.predict(test_data_emb).argmax(axis=-1)
 

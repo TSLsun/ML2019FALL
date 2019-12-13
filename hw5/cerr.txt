@@ -1,0 +1,44 @@
+Using TensorFlow backend.
+  0%|          | 0/860 [00:00<?, ?it/s]  0%|          | 2/860 [00:00<01:29,  9.62it/s]  2%|▏         | 14/860 [00:00<01:03, 13.27it/s]  3%|▎         | 26/860 [00:00<00:46, 18.08it/s]  5%|▍         | 39/860 [00:00<00:33, 24.35it/s]  6%|▌         | 51/860 [00:00<00:25, 31.92it/s]  8%|▊         | 66/860 [00:00<00:19, 41.49it/s]  9%|▉         | 79/860 [00:00<00:14, 52.12it/s] 11%|█         | 93/860 [00:00<00:11, 64.11it/s] 12%|█▏        | 106/860 [00:01<00:10, 74.36it/s] 14%|█▍        | 120/860 [00:01<00:08, 85.72it/s] 16%|█▌        | 134/860 [00:01<00:07, 96.67it/s] 17%|█▋        | 147/860 [00:01<00:06, 103.54it/s] 19%|█▊        | 161/860 [00:01<00:06, 110.83it/s] 20%|██        | 175/860 [00:01<00:05, 117.23it/s] 22%|██▏       | 190/860 [00:01<00:05, 123.28it/s] 24%|██▍       | 205/860 [00:01<00:05, 127.91it/s] 25%|██▌       | 219/860 [00:01<00:05, 125.89it/s] 27%|██▋       | 235/860 [00:01<00:04, 132.07it/s] 29%|██▉       | 249/860 [00:02<00:04, 130.40it/s] 31%|███       | 264/860 [00:02<00:04, 134.62it/s] 32%|███▏      | 278/860 [00:02<00:04, 135.26it/s] 34%|███▍      | 292/860 [00:02<00:04, 134.05it/s] 36%|███▌      | 308/860 [00:02<00:03, 139.08it/s] 38%|███▊      | 323/860 [00:02<00:03, 138.95it/s] 39%|███▉      | 337/860 [00:02<00:03, 136.88it/s] 41%|████      | 351/860 [00:02<00:03, 131.69it/s] 42%|████▏     | 365/860 [00:02<00:03, 129.87it/s] 44%|████▍     | 379/860 [00:03<00:03, 131.95it/s] 46%|████▌     | 393/860 [00:03<00:03, 131.84it/s] 47%|████▋     | 408/860 [00:03<00:03, 133.67it/s] 49%|████▉     | 422/860 [00:03<00:03, 134.39it/s] 51%|█████     | 436/860 [00:03<00:03, 132.00it/s] 52%|█████▏    | 450/860 [00:03<00:03, 132.18it/s] 54%|█████▍    | 464/860 [00:03<00:03, 130.85it/s] 56%|█████▌    | 478/860 [00:03<00:02, 131.40it/s] 57%|█████▋    | 492/860 [00:03<00:02, 128.47it/s] 59%|█████▊    | 505/860 [00:04<00:02, 128.76it/s] 60%|██████    | 520/860 [00:04<00:02, 133.16it/s] 62%|██████▏   | 534/860 [00:04<00:02, 134.14it/s] 64%|██████▍   | 549/860 [00:04<00:02, 137.80it/s] 65%|██████▌   | 563/860 [00:04<00:02, 137.81it/s] 67%|██████▋   | 579/860 [00:04<00:02, 139.58it/s] 69%|██████▉   | 593/860 [00:04<00:01, 136.25it/s] 71%|███████   | 607/860 [00:04<00:01, 130.92it/s] 72%|███████▏  | 623/860 [00:04<00:01, 136.60it/s] 74%|███████▍  | 637/860 [00:04<00:01, 131.44it/s] 76%|███████▌  | 651/860 [00:05<00:01, 129.77it/s] 77%|███████▋  | 666/860 [00:05<00:01, 131.24it/s] 79%|███████▉  | 680/860 [00:05<00:01, 128.73it/s] 81%|████████  | 695/860 [00:05<00:01, 133.50it/s] 82%|████████▏ | 709/860 [00:05<00:01, 131.74it/s] 84%|████████▍ | 723/860 [00:05<00:01, 130.82it/s] 86%|████████▌ | 737/860 [00:05<00:00, 133.30it/s] 87%|████████▋ | 751/860 [00:05<00:00, 133.36it/s] 89%|████████▉ | 767/860 [00:05<00:00, 138.88it/s] 91%|█████████ | 781/860 [00:06<00:00, 133.77it/s] 93%|█████████▎| 796/860 [00:06<00:00, 136.79it/s] 94%|█████████▍| 811/860 [00:06<00:00, 138.96it/s] 96%|█████████▌| 825/860 [00:06<00:00, 134.31it/s] 98%|█████████▊| 840/860 [00:06<00:00, 137.00it/s] 99%|█████████▉| 854/860 [00:06<00:00, 133.90it/s]100%|██████████| 860/860 [00:06<00:00, 129.15it/s]
+WARNING:tensorflow:From /share/home/tslsun025/.conda/envs/ml2019fall_hw5/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /share/home/tslsun025/.conda/envs/ml2019fall_hw5/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /share/home/tslsun025/.conda/envs/ml2019fall_hw5/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /share/home/tslsun025/.conda/envs/ml2019fall_hw5/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+WARNING:tensorflow:From /share/home/tslsun025/.conda/envs/ml2019fall_hw5/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From /share/home/tslsun025/.conda/envs/ml2019fall_hw5/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2019-12-13 21:40:06.784722: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+2019-12-13 21:40:06.794007: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2600000000 Hz
+2019-12-13 21:40:06.794465: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560dab785a90 executing computations on platform Host. Devices:
+2019-12-13 21:40:06.794492: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): <undefined>, <undefined>
+2019-12-13 21:40:06.797129: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcuda.so.1
+2019-12-13 21:40:09.264670: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 0 with properties: 
+name: Tesla V100-PCIE-16GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:3b:00.0
+2019-12-13 21:40:09.267073: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudart.so.10.0
+2019-12-13 21:40:09.270961: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcublas.so.10.0
+2019-12-13 21:40:09.274943: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcufft.so.10.0
+2019-12-13 21:40:09.276789: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcurand.so.10.0
+2019-12-13 21:40:09.280616: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusolver.so.10.0
+2019-12-13 21:40:09.284184: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusparse.so.10.0
+2019-12-13 21:40:09.290989: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudnn.so.7
+2019-12-13 21:40:09.292462: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1763] Adding visible gpu devices: 0
+2019-12-13 21:40:09.292505: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudart.so.10.0
+2019-12-13 21:40:09.727049: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1181] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019-12-13 21:40:09.727097: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1187]      0 
+2019-12-13 21:40:09.727109: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1200] 0:   N 
+2019-12-13 21:40:09.729425: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1326] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 14926 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-16GB, pci bus id: 0000:3b:00.0, compute capability: 7.0)
+2019-12-13 21:40:09.732402: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560dac5bf7e0 executing computations on platform CUDA. Devices:
+2019-12-13 21:40:09.732426: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Tesla V100-PCIE-16GB, Compute Capability 7.0
+WARNING:tensorflow:From /share/home/tslsun025/.conda/envs/ml2019fall_hw5/lib/python3.6/site-packages/keras/optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /share/home/tslsun025/.conda/envs/ml2019fall_hw5/lib/python3.6/site-packages/tensorflow/python/ops/math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-12-13 21:40:17.234144: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcublas.so.10.0

@@ -1,0 +1,20 @@
+
+============================ Messages from Goddess ============================
+ * Job starting from: 五 12月 13 21:39:45 CST 2019
+ * Job ID           : 17086
+ * Job name         : ML
+ * Job partition    : v100-16g
+ * Nodes            : 1
+ * Cores            : 4
+ * Working directory: ~/projects/ml2019fall_HW/HW5/submit
+===============================================================================
+
+Finish tokenize...
+Load w2v model ...
+Load w2v_rnn_max_val_acc.h5 ....
+Predict Test data...
+
+============================ Messages from Goddess ============================
+ * Job ended at     : 五 12月 13 21:40:27 CST 2019
+===============================================================================
+
